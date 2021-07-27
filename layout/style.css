@@ -1,0 +1,45 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.header{
+    background: red;
+    height: 90px;
+}
+
+.nav{
+    background-color: yellow;
+    height: 40px;
+}
+
+.left, .center, .right{
+    height: 350px;
+    float:left
+    
+}
+
+.left{
+    width: 20%;
+    background-color: aqua;
+}
+
+.center{
+    width: 60%;
+    background-color: magenta;
+}
+
+.right{
+    width: 20%;
+    background-color: maroon;
+}
+
+
+.footer{
+    height: 40px;
+    background-color: mediumblue;
+}
+
+.clear{
+    clear:both
+}

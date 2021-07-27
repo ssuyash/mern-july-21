@@ -1,0 +1,36 @@
+.color-red{
+    color:#fff;
+}
+
+
+.text-styled{
+    text-decoration: underline;
+    font-family: 'Montserrat', sans-serif;
+    background: red;
+}
+
+
+h1{
+    display: inline;
+    background:pink;
+}
+
+
+a, p{
+    background:pink;
+    display: inline-block;    
+    border:1px solid black;
+    padding:100px 50px  300px 500px;
+    margin-left:50px;
+}
+
+
+div{
+    background:red;
+    
+}
+
+h2{
+    background: red;
+}
+
